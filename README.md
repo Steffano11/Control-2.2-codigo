@@ -1,6 +1,6 @@
 ## 4. [5 puntos]
 
-Sea $G=(V,E)$ un grafo dirigido con $V=\{1,\ldots,n\}$ nodos y matriz de adyacencia $A$ ($A_{ij}=1$ si existe el enlace $j\to i$). Sea $d_j$ el grado de salida del nodo $j$, $D=\{j:d_j=0\}$ el conjunto de nodos sin salida y $S=A\operatorname{diag}(d)^{-1}$ con las columnas de $D$ sustituidas por $\frac{1}{n}e$. Define
+Sea (G=(V,E)) un grafo dirigido con (V={1,\ldots,n}) nodos y matriz de adyacencia (A) ((A_{ij}=1) si existe el enlace (j\to i)). Sea (d_j) el grado de salida del nodo (j), (D={j:d_j=0}) el conjunto de nodos sin salida y (S=A\operatorname{diag}(d)^{-1}) con las columnas de (D) sustituidas por (\frac{1}{n}\mathbf{e}). Define
 
 $$
 M_\alpha=I-\alpha S,
