@@ -1,0 +1,11 @@
+{
+  "parametros": {
+    "modo": "completo",
+    "semilla": 42,
+    "snap": null,
+    "timestamp_utc": "2026-11-22T04:08:24.407569+00:00",
+    "snap_ejecutado": false,
+    "snap_justificacion": "No se proporciono archivo real; requiere descargarlo de SNAP."
+  },
+  "advertencias": []
+}
